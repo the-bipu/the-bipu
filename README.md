@@ -7,13 +7,14 @@
   </h2>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200"/>
-</div>
+</div> -->
+<br>
 
-- 👋 Hi, I’m @the-bipu
-- 👀 I’m interested in Full Stack Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> . 
-- 💞️ That's all for now.
+- 👋 Hi, I’m @the-bipu .
+- 🤖 I’m interested in Full Stack Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27"> . 
+- 💞️ And that's it.
 <!-- - 🌱 I’m currently learning  -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
