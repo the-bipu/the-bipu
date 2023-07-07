@@ -1,5 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+<div id="header">
+  <img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width="200" />
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/> -->
 <!--   <img src="https://komarev.com/ghpvc/?username=the-bipu&style=flat-square&color=blue" alt=""/> -->
   <h2>
     Hey there!
@@ -13,8 +14,8 @@
 <br>
 
 - 👋 Hi, I’m @the-bipu .
-- 🤖 I’m interested in Full Stack Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27"> . 
-- 💞️ And that's it.
+- 🤖 I’m interested in Frontend Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27"> . 
+- 👽 That's all for now, see you soon!
 <!-- - 🌱 I’m currently learning  -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
