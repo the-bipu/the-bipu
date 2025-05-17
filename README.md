@@ -9,8 +9,8 @@
 </div> -->
 <br>
 
-- 👋 Hi there, I’m @the-bipu .
-- 🦇 I'm Batman and I can do <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27"> all day.
+- 👋 Hi there, I’m Batman.
+- 🛡️ I can do <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27"> all day.
 - 👽 That's enough!
 <!-- - 🌱 I’m currently learning  -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
